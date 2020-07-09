@@ -7,7 +7,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=554896813068&text=Hi!)](https://api.whatsapp.com/send?phone=554896813068&text=Hi!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anajuliabit@gmail.com)](mailto:anajuliabit@gmail.com)
 
-## Olá 👋
+## Hi 👋
 
 My name is Ana Julia Bittencourt, I am software developer from Brazil and open source enthusiast.
 
