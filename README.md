@@ -11,8 +11,7 @@
 
 My name is Ana Julia Bittencourt, I am software developer from Brazil and open source enthusiast.
 
-- :office_worker: Software developer at Trier Sistemas
-- :blue_heart: Techs: Node.js, Angular, React.js, React Native, Spring, Docker, Postgres, MongoDB and more!
+- :computer: Techs: Node.js, Angular, React.js, React Native, Spring, Docker, Postgres, MongoDB and more!
 - :books: Learning Nest.js and AWS.
 
 ---
