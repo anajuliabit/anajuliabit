@@ -9,10 +9,10 @@
 
 ## Olá 👋
 
-My name is Ana Julia Bittencourt, I am a software developer from Brazil :brazil: and open source enthusiast.
+My name is Ana Julia Bittencourt, I am a software developer from Brazil:brazil: and open source enthusiast.
 
 - :office_worker: Software developer at Trier Sistemas
 - :blue_heart: Techs: Node.js, Angular, React.js, React Native, Spring, Docker, Postgres, MongoDB and more!
-- :books: learning Nest.js and AWS.
+- :books: Learning Nest.js and AWS.
 
 ---
