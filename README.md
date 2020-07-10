@@ -14,3 +14,5 @@ My name is Ana Julia Bittencourt, I am software developer from Brazil and open s
 - :computer: Techs: Node.js, Angular, React.js, React Native, Spring, Docker, Postgres, MongoDB and more!
 - :books: Learning Nest.js and AWS.
 - :purple_heart: I use daily: `.ts`, `.js`, `.java`, `.html`, `.scss`.
+
+![Ana Julia github stats](https://github-readme-stats.vercel.app/api?username=anajuliabit)
