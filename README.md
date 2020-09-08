@@ -17,5 +17,3 @@ My name is Ana Julia Bittencourt, I am software engineer from Brazil and open so
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
 - 💬  Ask me about anything [here](https://github.com/anajuliabit/anajuliabit/issues)
-
-![Ana Julia github stats](https://github-readme-stats.vercel.app/api?username=anajuliabit)
