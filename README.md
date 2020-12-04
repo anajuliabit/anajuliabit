@@ -6,14 +6,22 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@anajuliabit)](https://medium.com/@anajuliabit)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anajuliabit@gmail.com)](mailto:anajuliabit@gmail.com)
 
-My name is Ana Julia Bittencourt, I am software engineer from Brazil and open source enthusiast.
+I am Ana, a 20 year old Software Engineer from Brazil and I'm passionate about technology, communities, and everything in-between. I love to learn and contribute in any and every possible way.
 
-- :computer: Techs: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
+More about me:
+- 🔭 I’m currently working on [@Rocketseat](https://github.com/rocketseat)
+- :school: I'm a Computer Science student in UNISUL (Universidade do Sul de Santa Catarina)
+- 😄 Pronouns: she/her
+- :star: Fun fact: my favorite series are This is Us and Anne with an E
 - 💬  Ask me about anything [here](https://github.com/anajuliabit/anajuliabit/issues)
+<br/>
+
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=anajuliabit&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+</details>
+
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajuliabit&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
