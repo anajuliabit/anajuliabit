@@ -11,7 +11,6 @@ I'm Ana, a 20 year old Software Engineer from Brazil and I'm passionate about te
 More about me:
 - :rocket: I’m currently working on [@Rocketseat](https://github.com/rocketseat)
 - :school: I'm a Computer Science student in UNISUL (Universidade do Sul de Santa Catarina)
-- 😄 Pronouns: she/her
 - :star: Fun fact: my favorite series are This is Us and Anne with an E
 - 💬  Ask me about anything [here](https://github.com/anajuliabit/anajuliabit/issues)
 <br/>
