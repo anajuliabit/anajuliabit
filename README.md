@@ -11,7 +11,7 @@ I'm Ana, a 20 year old Software Engineer from Brazil and I'm passionate about te
 More about me:
 - :rocket: I’m currently working on [@Rocketseat](https://github.com/rocketseat)
 - :school: I'm a Computer Science student in UNISUL (Universidade do Sul de Santa Catarina)
-- 💬  Ask me about anything [here](https://github.com/anajuliabit/anajuliabit/issues)
+- Send me an [email](mailto:anajuliabit@gmail.com) or a DM on [Twitter](https://www.twitter.com/anajuliadev) if you want to contact me 
 <br/>
 
 <details>
