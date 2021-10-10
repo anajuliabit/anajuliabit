@@ -7,10 +7,10 @@
 I'm Ana, a Software Developer from Brazil.
 
 More about me:
-- I'm in love with blockchain technology and I'm currently studying Web3
+- 💜 I'm a blockchain enthusiast and I'm currently studying Solidity.
 - :rocket: I’m currently working at [Ripio](https://www.ripio.com/) as Back-end Developer.
 - :school: I'm a Computer Science student in UNISUL (Universidade do Sul de Santa Catarina)
-- :email: Send me an [email](mailto:anajuliabit@gmail.com) or a DM on [Twitter](https://www.twitter.com/anajuliabit) if you want to contact me 
+- :email: Send me an [email](mailto:anajuliabit@gmail.com) or a DM on [Twitter](https://www.twitter.com/anajuliabit) if you want to contact me.
 <br/>
 
 <details>
