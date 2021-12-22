@@ -4,10 +4,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/anajuliabit/)](https://www.instagram.com/anajuliabit/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/anajuliadev)](https://www.twitter.com/anajuliadev)
 
-I'm Ana, a Software Developer from Brazil.
+I'm Ana, a Software Engineer from Brazil.
 
 More about me:
-- 💜 I'm a blockchain enthusiast and I'm currently studying Solidity.
+- 💜 I'm a blockchain enthusiast and I'm currently developing smart contracts with solidity.
 - :rocket: I’m currently working at [Ripio](https://www.ripio.com/) as Back-end Developer.
 - :school: I'm a Computer Science student in UNISUL (Universidade do Sul de Santa Catarina)
 - :email: Send me an [email](mailto:anajuliabit@gmail.com) or a DM on [Twitter](https://www.twitter.com/anajuliabit) if you want to contact me.
