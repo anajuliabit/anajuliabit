@@ -8,5 +8,5 @@ I'm Ana, a software engineer from Brazil.
 
 More about me:
 - 💚 I’m working at [Boson Protocol](https://www.bosonprotocol.io/) as a blockchain engineer
-- :school: I'm a computer science student
+- :school: I'm a computer science student (9/10)
 - 📚 I'm learning Rust
