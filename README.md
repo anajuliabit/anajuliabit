@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Ana.
 
-As a self-taught person, I have developed a deep interest in immersing myself in various subjects through perusing literature, examining documentation, and engaging in side projects. Throughout my four-year journey, I have had the privilege of collaborating with exceptional experts, which has significantly contributed to my personal and professional growth. In 2021, I shifted my career focus from backend engineering to smart contract engineering due to my belief that decentralized systems are the future.
+Being a self-taught individual, I find various ways to learn, including reading literature, studying documentation, building side projects, and tackling algorithmic challenges. During my four-year journey as a developer, I have had the privilege of working with exceptional minds who have had a positive impact on my personal and professional growth. In 2021, I decided to shift my focus from backend engineering to smart contract engineering, driven by my belief that decentralized systems have the potential to create a more just world.
 
 
 ## 🚀 A Bit About Me
