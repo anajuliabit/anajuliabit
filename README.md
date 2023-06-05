@@ -5,7 +5,7 @@ As a self-taught person, I have developed a deep interest in immersing myself in
 
 ## 🚀 A Bit About Me
 - **Current Role**: Blockchain Engineer at [Boson Protocol](https://www.bosonprotocol.io/)
-- **Academic**: I'm wrapping up my Computer Science degree 🎓 (9/10 semesters completed). My final paper delves into "Auto-payments on Ethereum with Account Abstraction: A technical exploration".
+- **Academic**: I'm wrapping up my Computer Science degree 🎓 (9/10 semesters completed). My final research paper delves into the technical aspects of Auto-payments on Ethereum with Account Abstraction
 - **Learning**: I'm presently dedicating my time to master Rust 🦀 
 
 ## 📖 Digging Deeper
