@@ -1,6 +1,7 @@
 # Hi! 👋 I'm Ana.
 
-Over the course of my four-year journey, I have had the privilege of working alongside some exceptional minds, an experience that has contributed significantly to my professional and personal growth. In 2021, I shifted my career focus from backend engineering to smart contract engineering. My conviction that decentralized systems are the future has been the driving force behind my decision to make this transition.
+As a self-taught person, I have developed a deep interest in immersing myself in various subjects through perusing literature, examining documentation, and engaging in side projects. Throughout my four-year journey, I have had the privilege of collaborating with exceptional experts, which has significantly contributed to my personal and professional growth. In 2021, I shifted my career focus from backend engineering to smart contract engineering due to my belief that decentralized systems are the future.
+
 
 ## 🚀 A Bit About Me
 - **Current Role**: Blockchain Engineer at [Boson Protocol](https://www.bosonprotocol.io/)
