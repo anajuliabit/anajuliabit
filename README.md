@@ -1,7 +1,6 @@
 # Hi! 👋 I'm Ana.
 
-Being a self-taught individual, I find various ways to learn, including reading literature, studying documentation, building side projects, and tackling algorithmic challenges. During my four-year journey as a developer, I have had the privilege of working with exceptional minds who have had a positive impact on my personal and professional growth. In 2021, I decided to shift my focus from backend engineering to smart contract engineering, driven by my belief that decentralized systems have the potential to create a more just world.
-
+As a self-taught person, I have explored diverse learning paths, like delving into literature, studying documentation, creating personal projects, and taking on algorithmic challenges. Throughout my four-year journey as a developer, I have had the privilege of collaborating with exceptional minds, whose influence has positively impacted both my personal and professional growth. In 2021, I shift my focus from backend engineering to smart contract engineering, motivated by my conviction that decentralization has the potential to create a more equitable world.
 
 ## 🚀 A Bit About Me
 - **Current Role**: Blockchain Engineer at [Boson Protocol](https://www.bosonprotocol.io/)
