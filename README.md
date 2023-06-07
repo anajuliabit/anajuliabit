@@ -5,11 +5,10 @@ As a self-taught person, I have explored diverse learning paths, like delving in
 ## 🚀 A Bit About Me
 - **Current Role**: Blockchain Engineer at [Boson Protocol](https://www.bosonprotocol.io/)
 - **Academic**: I'm wrapping up my Computer Science degree 🎓 (9/10 semesters completed). My final research paper delves into the technical aspects of Auto-payments on Ethereum with Account Abstraction
-- **Learning**: I'm presently dedicating my time to master Rust 🦀 
+- **Learning**: I'm studying Rust, Nix and Emacs
 
 ## 📖 Digging Deeper
 
-- I'm a committed Vim enthusiast - though, I must admit, Emacs has been intriguing me of late.
 - I'm a proud mom to 3 adorable cats 🐱 
 - I'm Brazilian and find immense joy in the vibrant culture, captivating landscapes, and warm people of my home country 🇧🇷
 - Surfing is my go-to activity, even though I'm still navigating the learning curve 🏄‍♀️
