@@ -9,15 +9,13 @@ As a self-taught person, I have explored diverse learning paths, like delving in
 
 ## 📖 Digging Deeper
 
-- I'm a proud mom to 3 adorable cats 🐱 
-- I'm Brazilian and find immense joy in the vibrant culture, captivating landscapes, and warm people of my home country 🇧🇷
-- Surfing is my go-to activity, even though I'm still navigating the learning curve 🏄‍♀️
-- This year, my reading list includes so far: A Brief History of Humankind', 'The Alchemist', 'Man's Search for Meaning', and currently 'Atomic Habits' 📚
+- I'm a mom to 3 adorable cats 🐱 
+- I'm Brazilian 🇧🇷
+- Surfing is my go-to activity 🏄‍♀️
+- This year, my reading list includes so far: Sapiens A Brief History of Humankind, The Alchemist, Man's Search for Meaning, and currently Atomic Habits 📚
 - I've adopted nihilism as a part of my worldview and always welcome a hearty discussion on life, existence, and everything in between 🌌
 
 ## 🌐 Connect With Me
-
-I'm perpetually open to collaboration and innovation. Whether you have a potential project on your mind, are eager to discuss emerging technologies, or simply wish to say hello, don't hesitate to reach out.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anajuliabit/)](https://www.linkedin.com/in/anajuliabit/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/anajuliabit/)](https://www.instagram.com/anajuliabit/)
