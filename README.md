@@ -8,7 +8,7 @@ As a Unix user, I always search for ways to optimize my operating system and ach
 - **Resume**: You can find my resume [here](./resume.pdf) 
 - **Last Role**: Blockchain Engineer at [Boson Protocol](https://www.bosonprotocol.io/)
 - **Academic**: I'm wrapping up my Computer Science degree 🎓 (9/10 semesters completed). I'm writing a paper on bugs commonly found in smart contracts.
-- **Learning**: I'm studying Rust, Nix and Emacs
+- **Learning**: I'm learning Rust
 
 ## 📖 Digging Deeper
 
