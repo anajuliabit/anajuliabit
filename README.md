@@ -5,7 +5,7 @@ I have been working in software engineering for five years, starting as a full-s
 As a Unix user, I always search for ways to optimize my operating system and achieve the best performance possible. I rely heavily on Emacs, which is versatile and streamlines my development workflow. My approach to work and life is highly systematic because I believe meticulous organization is crucial to success.
 
 ## 🚀 A Bit About Me
-- **Resume**: You can find my resume [here](./resume.pdf) 
+- **Resume**: You can find my resume [here](./resume/resume.pdf) 
 - **Last Role**: Blockchain Engineer at [Boson Protocol](https://www.bosonprotocol.io/)
 - **Academic**: I'm wrapping up my Computer Science degree 🎓 (9/10 semesters completed). I'm writing a paper on bugs commonly found in smart contracts.
 - **Learning**: I'm learning Rust
