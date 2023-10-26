@@ -7,15 +7,8 @@ As a Unix user, I always search for ways to optimize my operating system and ach
 ## 🚀 A Bit About Me
 - **Resume**: You can find my resume [here](./resume/resume.pdf) 
 - **Last Role**: Blockchain Engineer at [Boson Protocol](https://www.bosonprotocol.io/)
-- **Academic**: I'm wrapping up my Computer Science degree 🎓 (9/10 semesters completed). I'm writing a paper on bugs commonly found in smart contracts.
+- **Academic**: I'm wrapping up my Computer Science degree 🎓 (9/10 semesters completed).
 - **Learning**: I'm learning Rust
-
-## 📖 Digging Deeper
-
-- I'm a mom to 3 adorable cats 🐱 
-- I'm Brazilian 🇧🇷
-- Surfing is my go-to activity 🏄‍♀
-- This year, my reading list includes so far: Sapiens A Brief History of Humankind, The Alchemist, Man's Search for Meaning, Atomic Habits, and currently Thinking fast and slow📚
 
 ## 🌐 Connect With Me
 
