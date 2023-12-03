@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (Web2C 2022/nixos.org) (preloaded format=xelatex 1980.1.1)  16 OCT 2023 16:19
+This is XeTeX, Version 3.141592653-2.6-0.999994 (Web2C 2022/nixos.org) (preloaded format=xelatex 1980.1.1)  3 DEC 2023 07:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -956,8 +956,7 @@ File: bkm-dvipdfm.def 2020-11-06 v1.29 bookmark driver for dvipdfm (HO)
 )))
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 10.95pt on input line 80.
-
-No file resume.aux.
+ (resume/resume.aux)
 \openout1 = `resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
@@ -980,6 +979,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 80.
 LaTeX Font Info:    ... okay on input line 80.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 80.
 LaTeX Font Info:    ... okay on input line 80.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -1128,24 +1128,22 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 17.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
 (Font)              scaled to size 9.0pt on input line 17.
-) (resume/src/presentation.tex)
+) (resume/src/presentation.tex [1
+
+])
 (resume/src/honors.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 10.
+(Font)              scaled to size 12.0pt on input line 5.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 10.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 10.
- [1
-
-]) [2] (resume/resume.aux) ) 
+(Font)              scaled to size 12.0pt on input line 5.
+) [2] (resume/resume.aux) ) 
 Here is how much of TeX's memory you used:
- 33667 strings out of 476684
- 708814 string characters out of 5781117
- 1882018 words of memory out of 5000000
- 53313 multiletter control sequences out of 15000+600000
+ 33668 strings out of 476684
+ 708822 string characters out of 5781117
+ 1883018 words of memory out of 5000000
+ 53312 multiletter control sequences out of 15000+600000
  515147 words of font info for 129 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 114i,12n,127p,614b,583s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 114i,11n,127p,757b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on resume/resume.pdf (2 pages).
