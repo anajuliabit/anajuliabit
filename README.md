@@ -1,9 +1,9 @@
 # Who am I
 
 - 5 years working as a dev
-- Building smart contracts by day, mastering Emacs by night
-- Rust enthusiast
-- Currently wrapping up my Computer Science Bachelor's.
+- Solidity engineer
+- Rust and cairo enthusiast
+- Bachelor in Computer Science
 - Interested in my work? Check my [resume](./resume/resume.pdf).
 
 # Getting in touch
